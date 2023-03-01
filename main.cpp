@@ -72,7 +72,7 @@ void problem2() {
 
 void problem3() {
     // TODO: Your code here!
-    GLfloat x1t = 0;
+    GLfloat x1 = 0;
     GLfloat y1 = 1;
     for (int i = 6; i > 0; i--) {
       GLfloat x = x1;
